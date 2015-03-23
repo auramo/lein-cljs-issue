@@ -1,9 +1,12 @@
 ## How to repeat issue #384
 
+Repeat by cloning and running ```lein cljsbuild once```
+
 Full stack trace:
 https://gist.github.com/auramo/aea73858ca3a000d44a6
 
-Repeat by running ```lein cljsbuild once```
+The issue:
+https://github.com/emezeske/lein-cljsbuild/issues/384
 
 ## Leiningen version
 
